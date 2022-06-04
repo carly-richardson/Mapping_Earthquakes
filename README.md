@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes with JavaScript and APIs
 
 ## Overview
   1. Added tectonic plate data to a map of earthquakes to analyze the earthquake data in relation to the techtonic plates' location on Earth.
